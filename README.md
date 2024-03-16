@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Surbhi kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="left" width=400 alt="coding" src=https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif>
+<img align="right" width=400 alt="coding" src=https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhiadri&label=Profile%20views&color=0e75b6&style=flat" alt="surbhiadri" /> </p>
 
