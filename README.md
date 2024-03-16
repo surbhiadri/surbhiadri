@@ -1,4 +1,4 @@
-![logo](https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif)
+![logo](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Surbhi kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
