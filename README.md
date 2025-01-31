@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="GitHub Header" />
+  <img src="https://github.com/surbhiadri/surbhiadri/blob/main/subu.gif?raw=true" alt="GitHub Header" />
 </p>
 
 <h1 align="center">Hello! 👋 I'm Surbhi Kumari</h1>
