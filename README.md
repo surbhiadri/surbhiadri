@@ -2,7 +2,6 @@
   <img src="https://github.com/surbhiadri/surbhiadri/blob/main/subu.gif?raw=true" alt="GitHub Header" />
 </p>
 
-<h1 align="center">Hello! 👋 I'm Surbhi Kumari</h1>
 <h3 align="center">A Passionate Developer and Tech Enthusiast from India</h3>
 
 <p align="center">
