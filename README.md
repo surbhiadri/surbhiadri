@@ -34,9 +34,9 @@
 
 ---
 ### 🔗 Hosted Projects
-<p align="left"> Portfolio<a href="https://surbhikumari-portfolio.netlify.app/"></p>
-<p align="left"> PlywoodWorld<a href="https://plywoodworld.in/"></p>
-<p align="left"> MyLearn<a href="https://www.mylearn.co/"></p>
+<p align="left"> Portfolio<a href="https://surbhikumari-portfolio.netlify.app/ target="_blank"></p>
+<p align="left"> PlywoodWorld<a href="https://plywoodworld.in/" target="_blank"></p>
+<p align="left"> MyLearn<a href="https://www.mylearn.co/" target="_blank"></p>
 
 ---
 
