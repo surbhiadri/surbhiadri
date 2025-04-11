@@ -33,6 +33,12 @@
 </p>
 
 ---
+### 🔗 Hosted Projects
+<p align="left"> Portfolio<a href="https://surbhikumari-portfolio.netlify.app/"></p>
+<p align="left"> PlywoodWorld<a href="https://plywoodworld.in/"></p>
+<p align="left"> MyLearn<a href="https://www.mylearn.co/"></p>
+
+---
 
 ### 🛠️ Languages & Tools
 <p align="left">
